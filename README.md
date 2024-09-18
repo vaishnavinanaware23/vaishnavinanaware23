@@ -1,6 +1,8 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-4129-91d6-1c2fb1e8ce90.gif))]
 <h1 align="center">Hi 👋, I'm Vaishnavi Nanaware</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"Data Analyst | Software Developer | Turning Data into Actionable Insights with Code"
+
+from India</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavinanaware23&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavinanaware23" /> </p>
@@ -11,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [vaishnaviweb.com](vaishnaviweb.com)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **Power BI, Python, SQL, Advance Excel, Tablue, react, javascript**
 
 - 📫 How to reach me **vaishnavinanaware80@gmail.com**
 
