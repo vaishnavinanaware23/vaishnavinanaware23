@@ -1,3 +1,8 @@
+## Black & White Modern Minimalist Data Analyst LinkedIn Banner
+
+Check out this design by [Vaishnavi Nanaware](https://www.canva.com/design/DAGRGObA8RQ/3PoqeljBjfu5qGMEBbjVNA/view?utm_content=DAGRGObA8RQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link).
+
+![Black & White Modern Minimalist Data Analyst LinkedIn Banner](https://www.canva.com/design/DAGRGObA8RQ/3PoqeljBjfu5qGMEBbjVNA/view?embed)
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Nanaware</h1>
 <h3 align="center">"Data Analyst | Software Developer | Turning Data into Actionable Insights with Code"
