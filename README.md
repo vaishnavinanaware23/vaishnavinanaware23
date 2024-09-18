@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-4129-91d6-1c2fb1e8ce90.gif))]
+[![MasterHead](https://www.canva.com/design/DAGRGObA8RQ/3PoqeljBjfu5qGMEBbjVNA/view)]
 <h1 align="center">Hi 👋, I'm Vaishnavi Nanaware</h1>
 <h3 align="center">"Data Analyst | Software Developer | Turning Data into Actionable Insights with Code"
 
